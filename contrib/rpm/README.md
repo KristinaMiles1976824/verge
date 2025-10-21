@@ -155,3 +155,5 @@ As far as minor differences, I generally prefer to assign the file permissions
 in the `%files` portion of an RPM spec file rather than specifying the
 permissions of a file during `%install` and other minor things like that
 are largely just cosmetic.
+
+<!-- Auto-update: 2025-10-21T08:21:28.433379 -->
