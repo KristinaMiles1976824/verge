@@ -93,3 +93,5 @@ Instructions for macOS:
 8. Select the default "Desktop" kit and select "Clang (x86 64bit in /usr/bin)" as compiler
 9. Select LLDB as debugger (you might need to set the path to your installation)
 10. Start debugging with Qt Creator (you might need to the executable to "verge-qt" under "Run", which is where you can also add command line arguments)
+
+<!-- Auto-update: 2025-10-22T08:39:09.666077 -->
